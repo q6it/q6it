@@ -4,10 +4,7 @@
 
 <h3>My name is Andrei.</h3>
 <p>I'm a web developer with a passion for building amazing things.</p>
-
-<img width="230px" src="https://media0.giphy.com/media/VekcnHOwOI5So/giphy.gif?cid=ecf05e47vswsppsg7jwv3rvyrjx3off56x4g2s5wx80t8cjg&rid=giphy.gif&ct=g" style="border-radius: 5%;">
-
-
+<img align='right' width="230px" height="auto" src="https://media0.giphy.com/media/VekcnHOwOI5So/giphy.gif?cid=ecf05e47vswsppsg7jwv3rvyrjx3off56x4g2s5wx80t8cjg&rid=giphy.gif&ct=g">
 
 - 💼 I’m currently working in [Salto X](https://www.linkedin.com/company/salto-x/mycompany/)
 - 🌱 I’m currently learning `javascript`, `typescript`, `react`, `node`
