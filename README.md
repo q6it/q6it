@@ -1,7 +1,7 @@
 # Andrei's Profile
 ### Hi there 👋
 
-My name is Andrei
+My name is Andrei.\
 I'm a web developer with a passion for building amazing things.
 
 - 💼 I’m currently working in [Salto X](https://www.linkedin.com/company/salto-x/mycompany/)
