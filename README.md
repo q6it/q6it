@@ -42,16 +42,25 @@ Mostly my tech stack is covered under closed companies repositories.
 My personal project will be updated soon...
 Here are a few of them that where made about a year ago:
 
-### Project 1: `Chingu Solo project`
+
+### Project 1: `Wolt test assignment`
+[Wolt test assignment](https://github.com/q6it/delivery-fee-calculator)
+- The test assignment for Wolt Berlin internship
+
+### Project 2: `Quarters task manager`
+[Quarters task manager](https://github.com/q6it/quarterly-tasks)
+- Create the task for the quarters of the year
+
+
+### Project 3: `Chingu Solo project`
 #### Frontend:
 [Chingu solo project frontend](https://github.com/q6it/chingu-solo-project)
 #### Backend:
 [Chingu solo project backend](https://github.com/q6it/chingu-solo-project-backend)
 - This is a test application for participation in a Chingu course.
 
-### Project 2: `Streaming app`
+### Project 4: `Streaming app`
 [Stream app](https://github.com/q6it/stream-app)
 - My streaming application which was once used as base for dj-ing website of our band AtticBass. 
-
 
 
