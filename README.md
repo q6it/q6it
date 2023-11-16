@@ -28,9 +28,11 @@
                 "React Admin",
                 "Chart.js",
                 "Vite",
+                "React Testing Library"
             ],
             backEnd: ["Node", "Nest", "Prisma"],
             databases: ["PostgreSQL", "MongoDB"],
+            other: ["Docker"]
         },
     }
 ```
